@@ -12,3 +12,11 @@ tty        # docker run -t
 ```
 $> docker run -i -t -p 3000:3000 react-docker:latest
 ```
+
+
+## 스토리북
+```
+$> yarn storybook
+
+http://localhost:6006
+```
