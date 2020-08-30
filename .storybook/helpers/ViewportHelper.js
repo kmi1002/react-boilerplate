@@ -40,5 +40,5 @@ export const newViewports = {
       width: '1440px',
       height: '900px',
     },
-  }
+  },
 };
